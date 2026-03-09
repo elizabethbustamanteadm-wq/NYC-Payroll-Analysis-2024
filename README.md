@@ -42,7 +42,7 @@ My analysis focuses on three pillars that directly influence the organization's 
 ---
 
 ## 🖼️ Executive Dashboard Preview
-![NYC Payroll Analysis](dashboard_preview.jpg)
+![NYC Payroll Analysis](dashboard_preview.png)
 
 ---
 
