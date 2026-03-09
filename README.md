@@ -48,4 +48,4 @@ My analysis focuses on three pillars that directly influence the organization's 
 
 
 ## 📩 Contact for Strategic Collaboration
-**Elizabeth Bustamante** [LinkedIn Profile](www.linkedin.com/in/elizabeth-bustamante-97a218328) 
+**Elizabeth Bustamante** | [LinkedIn Profile](https://www.linkedin.com/in/elizabeth-bustamante-97a218328)
